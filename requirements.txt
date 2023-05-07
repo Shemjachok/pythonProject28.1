@@ -1,0 +1,6 @@
+1. pytest
+2. pytest-selenium
+3. termcolor
+4. allure-python-commons
+5. selenium
+6. faker
